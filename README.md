@@ -1,15 +1,11 @@
-<!-- Animated Neon Cyberpunk Header -->
+<!-- Animated Intro (Using dynamic typing API) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MartinLaxenaire/wave-emoji/master/wave.gif" width="48px" alt="Waving Hand" />
-  <br />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Numpy-Byte!;CSE+Student+%2F+Software+Developer;Creator+of+CodeFrame" alt="Neon Typing Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&width=435&lines=Hi+there%2C+I'm+Numpy-Byte!+👋;CSE+Student%2FSoftware+Developer;Creator+of+CodeFrame" alt="Typing SVG" />
   </a>
 </div>
 
-<br />
-
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openapi-initiative&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
@@ -32,30 +28,30 @@
 ### 🛠️ Tech Stack & Toolkit
 
 #### Programming Languages
-![Java](https://img.shields.io/badge/-Java-00F0FF?style=flat-square&logo=java&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-00F0FF?style=flat-square&logo=python&logoColor=black)
-![OpenGL](https://img.shields.io/badge/-OpenGL-00F0FF?style=flat-square&logo=opengl&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![OpenGL](https://img.shields.io/badge/-OpenGL-black?style=flat-square&logo=opengl)
 
 #### Frameworks & Platforms
-![JavaFX](https://img.shields.io/badge/-JavaFX-FF007F?style=flat-square&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-FF007F?style=flat-square&logo=spring&logoColor=white)
-![Electron.js](https://img.shields.io/badge/-Electron.js-FF007F?style=flat-square&logo=electron&logoColor=white)
-![Tauri](https://img.shields.io/badge/-Tauri-FF007F?style=flat-square&logo=tauri&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-FF007F?style=flat-square&logo=opencv&logoColor=white)
+![JavaFX](https://img.shields.io/badge/-JavaFX-black?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-black?style=flat-square&logo=spring)
+![Electron.js](https://img.shields.io/badge/-Electron.js-black?style=flat-square&logo=electron)
+![Tauri](https://img.shields.io/badge/-Tauri-black?style=flat-square&logo=tauri)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
 
 #### Databases & Tools
-![Hibernate](https://img.shields.io/badge/-Hibernate-00F0FF?style=flat-square&logo=hibernate&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-00F0FF?style=flat-square&logo=mysql&logoColor=black)
-![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-00F0FF?style=flat-square&logo=apachemaven&logoColor=black)
-![Gradle](https://img.shields.io/badge/-Gradle-00F0FF?style=flat-square&logo=gradle&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-00F0FF?style=flat-square&logo=docker&logoColor=black)
-![Git](https://img.shields.io/badge/-Git-00F0FF?style=flat-square&logo=git&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-00F0FF?style=flat-square&logo=postman&logoColor=black)
+![Hibernate](https://img.shields.io/badge/-Hibernate-black?style=flat-square&logo=hibernate)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Apache Maven](https://img.shields.io/badge/-Apache%20Maven-black?style=flat-square&logo=apachemaven)
+![Gradle](https://img.shields.io/badge/-Gradle-black?style=flat-square&logo=gradle)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 
 #### Design
-![Blender](https://img.shields.io/badge/-Blender-FF007F?style=flat-square&logo=blender&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-FF007F?style=flat-square&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-FF007F?style=flat-square&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/-Blender-black?style=flat-square&logo=blender)
+![Canva](https://img.shields.io/badge/-Canva-black?style=flat-square&logo=canva)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 ---
 
@@ -66,14 +62,16 @@
 
  <br />
 
+ <!-- Replace 'Numpy-Byte' below if your username ever changes -->
  ![Numpy-Byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Numpy-Byte&show_icons=true&theme=tokyonight)
 
  <br />
 
+ <!-- Replace 'Numpy-Byte' below if your username ever changes -->
  ![Numpy-Byte's Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=Numpy-Byte&theme=tokyonight)
 
 </details>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-Numpy--Byte-%2300F0FF?style=social&logo=github"/>
+  <img src="https://img.shields.io/badge/-Numpy--Byte-%23ffffff?style=social&logo=github"/>
 </div>
