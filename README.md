@@ -63,7 +63,7 @@
   <br />
 
   <div align="center">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Numpy-Byte&show_icons=true&theme=tokyonight&hide_border=true" alt="Numpy-Byte's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Numpy-Byte&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Numpy-Byte's GitHub stats" />
     <br /><br />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Numpy-Byte&theme=tokyonight&hide_border=true" alt="Numpy-Byte's Commits Streak" />
   </div>
