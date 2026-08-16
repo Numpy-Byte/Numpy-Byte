@@ -1,7 +1,9 @@
-<!-- Animated Neon Cyberpunk Header with Waving Hand -->
+<!-- Animated Neon Cyberpunk Header -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/MartinLaxenaire/wave-emoji/master/wave.gif" width="48px" alt="Waving Hand" />
+  <br />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&height=50&lines=%F0%9F%90%8B+Hi+there%2C+I'm+Numpy-Byte!;CSE+Student+%2F+Software+Developer;Creator+of+CodeFrame" alt="Neon Typing Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Numpy-Byte!;CSE+Student+%2F+Software+Developer;Creator+of+CodeFrame" alt="Neon Typing Header" />
   </a>
 </div>
 
