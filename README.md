@@ -1,7 +1,12 @@
-# Numpy-Byte | Software Developer & Designer
+<!-- Animated Intro (Using dynamic typing API) -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7DF1E&width=435&lines=Hi+there%2C+I'm+Numpy-Byte!+👋;CSE+Student%2FSoftware+Developer;Creator+of+CodeFrame" alt="Typing SVG" />
+  </a>
+</div>
 
-<div align="left">
-  <imgsrc="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openapi-initiative&logoColor=white"/>
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openapi-initiative&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -57,13 +62,13 @@
 
  <br />
 
- <!-- Replace 'YOUR_USERNAME' with 'Numpy-Byte' on the line below -->
- ![Numpy-Byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+ <!-- Replace 'Numpy-Byte' below if your username ever changes -->
+ ![Numpy-Byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Numpy-Byte&show_icons=true&theme=tokyonight)
 
  <br />
 
- <!-- Replace 'YOUR_USERNAME' with 'Numpy-Byte' on the line below -->
- ![Numpy-Byte's Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+ <!-- Replace 'Numpy-Byte' below if your username ever changes -->
+ ![Numpy-Byte's Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=Numpy-Byte&theme=tokyonight)
 
 </details>
 
