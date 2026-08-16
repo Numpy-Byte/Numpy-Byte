@@ -57,20 +57,20 @@
 
 ### 📊 Github Stats
 
-<details>
- <summary>Click to view live development activity</summary>
+<details open>
+  <summary>Click to view live development activity</summary>
 
- <br />
+  <br />
 
- <!-- Replace 'Numpy-Byte' below if your username ever changes -->
- ![Numpy-Byte's GitHub stats](https://github-readme-stats.vercel.app/api?username=Numpy-Byte&show_icons=true&theme=tokyonight)
-
- <br />
-
- <!-- Replace 'Numpy-Byte' below if your username ever changes -->
- ![Numpy-Byte's Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=Numpy-Byte&theme=tokyonight)
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Numpy-Byte&show_icons=true&theme=tokyonight&hide_border=true" alt="Numpy-Byte's GitHub stats" />
+    <br /><br />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Numpy-Byte&theme=tokyonight&hide_border=true" alt="Numpy-Byte's Commits Streak" />
+  </div>
 
 </details>
+
+<br />
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Numpy--Byte-%23ffffff?style=social&logo=github"/>
